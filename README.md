@@ -29,3 +29,5 @@ This summary table provides a more compact form of the host activity data, helpi
 7. Incremental Query for Host Activity Reduction:
 
 This query helps maintain an efficient summary of host activity by aggregating the raw event data into meaningful metrics. It also ensures that the activity is updated with each new day of data.
+
+Note: I extracted the data I used in csv format and uploaded it.
